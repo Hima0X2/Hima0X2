@@ -39,14 +39,14 @@
 
 - ✨Testing
 
-- 🔥security researcher🏮
+- 🏮security researcher
 
 ### Hobbies
-- 🎧 Reading📚 
+- 📚 Reading 
 
 - ❄ Learning New Stuff
 
-- 🔌 Explore The Internet🌐
+- 🌐 Explore The Internet
 
 <br/><hr/>
 
