@@ -20,7 +20,7 @@
   🎓 &nbsp;I'm currently studying Software Engineering at Noakhali Science And Technology University, Noakhali.\
   💡 &nbsp;Some technologies I enjoy working with include  C++,JAVA,Python, MySQL, Git, HTML, Selenium, Linux.\
   🌱 &nbsp;I'm on track for learning more about Data Structures and Algorithm, Software Development, Systems Design.\
-  👨‍💻 &nbsp;I am practicing on [LeetCode](https://leetcode.com/Mahisa_Hima/),[Codeforces](https://codeforces.com/profile/Ki_name_dibo), [CodeChef](https://www.codechef.com/users/hima_2), [HackerRank](https://www.hackerrank.com/profile/sanjidasamanta21), [InterviewBit](https://www.interviewbit.com/profile/sanjida-samanta) and .[tryhackme](https://tryhackme.com/p/ErrorByLight)\
+  👨‍💻 &nbsp;I am practicing on [Codeforces](https://codeforces.com/profile/Ki_name_dibo), [CodeChef](https://www.codechef.com/users/hima_2), [HackerRank](https://www.hackerrank.com/profile/sanjidasamanta21) and .[tryhackme](https://tryhackme.com/p/ErrorByLight)\
   ✉️ &nbsp;Get in touch with me via email at ```himappu89@gmail.com```. 
 
  <b> </b>
