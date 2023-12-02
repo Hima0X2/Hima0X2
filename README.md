@@ -6,8 +6,8 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20web%20developer;Problem%20Solver;Programmer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=3d85c6&vCenter=true&size=22"></a>
-<!-- </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hima0X2&label=Profile%20views&color=0e75b6&style=flat" alt="Hima0X2" /> </p> -->
+</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hima0X2&label=Profile%20views&color=0e75b6&style=flat" alt="Hima0X2" />
 <p>
     <a href="#"><img src="https://img.shields.io/github/followers/Hima0X2?style=social&label=follow"></a>
     <a href="#"><img src="https://img.shields.io/github/stars/Hima0X2?style=social"></a>
