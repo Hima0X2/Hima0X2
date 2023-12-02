@@ -20,7 +20,7 @@
   💡 &nbsp;Some technologies I enjoy working with include  C++,JAVA,Python, MySQL, Git, HTML, Selenium, Linux.\
   🌱 &nbsp;I'm on track for learning more about Data Structures and Algorithm, Software Development, Systems Design.\
   👨‍💻 &nbsp;I am practicing on [Codeforces](https://codeforces.com/profile/Ki_name_dibo), [CodeChef](https://www.codechef.com/users/hima_2), [HackerRank](https://www.hackerrank.com/profile/sanjidasamanta21) and .[tryhackme](https://tryhackme.com/p/ErrorByLight)\
-  ✉️ &nbsp;[Get in touch with me via email](mailto:samayrajahan02@gmail.com)
+  ✉️ &nbsp;Get in touch with me via email at [samayrajahan02@gmail.com](mailto:samayrajahan02@gmail.com).
 
 
  <b> </b>
