@@ -7,10 +7,9 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20web%20developer;Problem%20Solver;Programmer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=3d85c6&vCenter=true&size=22"></a>
 <p>
+    <img src="https://img.shields.io/github/followers/Hima0X2?style=social&label=follow">
+    <img src="https://img.shields.io/github/stars/Hima0X2?style=social">
     <img src="https://komarev.com/ghpvc/?username=Hima0X2&label=Profile%20views&color=0e75b6&style=flat" alt="Hima0X2" />
-    <img src="https://img.shields.io/github/followers/Hima0X2?style=social&label=follow"></a>
-    <img src="https://img.shields.io/github/stars/Hima0X2?style=social"></a>
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHima0X2&title=Visitors&count_bg=%230073EB"></a>
 </p>
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;"><img src="cute.gif" alt="Cute Image"></div>
