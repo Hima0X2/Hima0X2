@@ -67,7 +67,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 
-<p align="left">
+<p>
    <a href="https://www.linkedin.com/in/sanjidasamanta/">
      <img src="https://img.shields.io/badge/LinkedIn-sanjidasamanta-blue">
   </a>
