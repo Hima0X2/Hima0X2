@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/github/stars/Hima0X2?style=social">
     <img src="https://komarev.com/ghpvc/?username=Hima0X2&label=Profile%20views&color=0e75b6&style=flat" alt="Hima0X2" />
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hima0X2&theme=onedark)](https://github.com/Hima0X2/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=Hima0X2&theme=onedark)
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;"><img src="cute.gif" alt="Cute Image"></div>
 <hr/>
 
