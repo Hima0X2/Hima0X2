@@ -69,7 +69,7 @@
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
-![Bash Scripting](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=shell)
+![Bash Scripting](https://img.shields.io/badge/-Bash Scripting-05122A?style=flat&logo=shell)
 
 <p>
    <a href="https://www.linkedin.com/in/sanjidasamanta/">
